@@ -1,6 +1,6 @@
 {
   "name": "team-jo-project-1",
-  "private": "true",
+  "private": "false",
   "type": "module",
   "version": "1.0.0",
   "description": "Food Story",
