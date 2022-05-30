@@ -3,7 +3,7 @@
   "private": "true",
   "type": "module",
   "version": "1.0.0",
-  "description": "CodersCamp 2021 - Team Jan Owsiany - Project 1",
+  "description": "Food Story",
   "source": "index.html",
   "engines": {
     "node": "16"
@@ -11,7 +11,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build:gh": "parcel build --public-url https://coderscamp2021.github.io/team-jo-project-1/",
+    "build:gh": "parcel build --public-url https://github.com/JaCoWymowny/team-jo-project-1/",
     "prepare": "husky install",
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
   },
