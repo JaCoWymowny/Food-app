@@ -1,18 +1,3 @@
-# Coders Camp 2021 | Projekt Zespołowy | HTML & CSS & JavaScript
+Pure Javascript class technology with store. This project using Spoonacular API. You can create some meals, and store this in local storage. You need free spoonacular account and copy key to project. Enjoy and test it!
 
-## Zespół projektowy
-
-Zespół pracował w ramach kursu [CodersCamp](https://www.coderscamp.pl/).
-Aplikację wykonali uczestnicy kursu przy pomocy mentora.
-Zachęcamy do odwiedzenia profili członków zespołu, w celu zapoznania się z ich portfolio.
-
-**Mentor**: [Jan Owsiany](https://github.com/janowsiany)
-
-**Uczestnicy**:
-
-- [Weronika Luteńko](https://github.com/vera98d/)
-- [Maciej Wójcik](https://github.com/cherrycoke2l)
-- [Jacek Mickiewicz](https://github.com/JaCoWymowny)
-- [Magdalena Kita](https://github.com/MagdalenaKita)
-- [Szymon Wilk](https://github.com/stimon27)
-- [Natalia Mateusiak](https://github.com/natimati)
+https://spoonacular.com/food-api - You can get key here!
